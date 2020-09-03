@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/ariannacolon/ariannacoloncesani.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ariannacolon/ariannacoloncesani.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Bio
+I am a third-year undergraduate physicist at the University of Puerto Rico-Mayagüez (UPRM) interested in astrophysics, particle physics, and aerospace engineering. I am currently working with the CMS Experimental Particle Physics Research Group in Mayagüez, Puerto Rico and the Planetary Habitability Laboratory (PHL) research unit of the University of Puerto Rico-Arecibo. I am also founder and vice president of Women in Physics-Puerto Rico (UPRM).
+## Undergraduate Student Research Experience
+- Planetary Habitability Laboratory (PHL)
+- CMS Experimental Particle Physics Research Group
+- Lucy Student Pipeline Accelerator and Competency Enabler (L’SPACE) Virtual Academy
+## Projects
+- NASA RASC-AL 2018-2019 Competition Gateway-based Human Lunar Surface Access theme
+## Publications
+- Lunar Exploration and Access to Polar Regions (LEAPR)
+## Honors and Awards
+- 2019-2020 Society of Physics Students (UPRM) Honor Roll Student
+- 2018-2019 University of Puerto Rico-Mayaguez Physics Honor Roll Student
+- 2018-2019 First Place Overall, Best in Theme, and Pioneering Exceptional Achievement Concept Honor (PEACH) awards.
